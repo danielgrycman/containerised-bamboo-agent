@@ -1,7 +1,3 @@
-# docker-bamboo-agent
-
-[![Pulls on Docker Hub](https://img.shields.io/docker/pulls/aroygreenfeld/bamboo-agent.svg)]
-
 ## Quickstart
 
 To run:
@@ -12,6 +8,6 @@ To run:
 
 To build:
 
-    git clone https://github.com/audreyr/docker-bamboo-agent.git
+    git clone https://github.com/danielgrycman/docker-bamboo-agent.git
     cd docker-bamboo-agent
     docker build -t bamboo-agent .
