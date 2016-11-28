@@ -11,3 +11,7 @@ To build:
     git clone https://github.com/danielgrycman/docker-bamboo-agent.git
     cd docker-bamboo-agent
     docker build -t bamboo-agent .
+
+## Docker Pull
+
+docker pull danielgrycmancc/containerised-bamboo-agent
