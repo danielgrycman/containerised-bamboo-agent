@@ -4,7 +4,7 @@ MAINTAINER Daniel Grycman (@danielgrycman)
 # Config vars
 ENV BAMBOO_AGENT_HOME /usr/sbin/bamboo-agent-home
 ENV BAMBOO_AGENT_INSTALL /opt/atlassian/bambooagent
-ENV BAMBOO_VERSION 5.14
+ENV BAMBOO_VERSION 5.15
 ENV BAMBOO_AGENT_JAR atlassian-bamboo-agent-installer-$BAMBOO_VERSION.jar
 ENV BAMBOO_AGENT $BAMBOO_AGENT_HOME/bin/bamboo-agent.sh
 
