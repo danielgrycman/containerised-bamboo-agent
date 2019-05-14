@@ -1,3 +1,5 @@
+![Docker Pulls](https://img.shields.io/docker/pulls/danielgrycmancc/containerised-bamboo-agent.svg)
+
 ## Quickstart
 
 To run:

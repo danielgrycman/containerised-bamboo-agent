@@ -1,5 +1,4 @@
 FROM java:8
-MAINTAINER Daniel Kocot (@dk_1977)
 
 # Config vars
 ENV BAMBOO_AGENT_HOME /usr/sbin/bamboo-agent-home
